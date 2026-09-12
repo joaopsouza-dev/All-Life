@@ -1,4 +1,4 @@
-# All-# All Life
+# All Life
 
 Um projeto pessoal de produtividade e desenvolvimento — uma aplicação web que centraliza agenda, hábitos, estudos e motivação em um único lugar, construída do zero como laboratório de aprendizado full stack.
 
